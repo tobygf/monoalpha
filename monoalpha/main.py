@@ -1,4 +1,4 @@
-# Functions for monoalpha - please read README for more information
+# Functions for monoalpha - please read README.txt for more information
 
 import string
 
