@@ -1,7 +1,7 @@
 from setuptools import *
 setup(
 name="monoalpha",
-version="1.0.0",
+version="1.0.1",
 description="A simple monoalphabetic cipher program.",
 long_description="""Monoalpha can be used to generate generate code
 alphabets, as well as encrypting, and decrypting

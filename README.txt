@@ -1,6 +1,6 @@
 Monoalpha by Toby Govin-Fowler
 
-Version 1.0.0
+Version 1.0.1
 
 Monoalpha is a simple monoalphabetic cipher program. It can be used to generate generate code
 alphabets, as well as encrypting, and decrypting text. It supports caesar shift,
